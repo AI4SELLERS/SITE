@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /page35447197.html
+Disallow: /2
+Disallow: /page35453174.html
+Disallow: /3
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: http://ai4sellers.tilda.ws/sitemap.xml
+Host: ai4sellers.tilda.ws
